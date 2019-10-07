@@ -1,0 +1,20 @@
+name: ghost_hustlers
+description: Ghosts are worth good money these days... if you can catch them.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.5.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
