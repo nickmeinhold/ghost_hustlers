@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0128ADAD235DDBF10005B0E7 /* UnityFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0128ADAC235DDBF10005B0E7 /* UnityFramework.framework */; };
 		0128ADAF235DDE400005B0E7 /* UnityFramework.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 0128ADAC235DDBF10005B0E7 /* UnityFramework.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		106DAF978D006854D5C6173D /* Pods_Runner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F956087A80B36E308438A6F1 /* Pods_Runner.framework */; };
 		1498D2341E8E89220040F4C2 /* GeneratedPluginRegistrant.m in Sources */ = {isa = PBXBuildFile; fileRef = 1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */; };
@@ -66,7 +65,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0128ADAD235DDBF10005B0E7 /* UnityFramework.framework in Frameworks */,
 				9705A1C61CF904A100538489 /* Flutter.framework in Frameworks */,
 				3B80C3941E831B6300D905FE /* App.framework in Frameworks */,
 				106DAF978D006854D5C6173D /* Pods_Runner.framework in Frameworks */,
